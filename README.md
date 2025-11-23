@@ -36,18 +36,19 @@ print(f"Quality Score: {results['overall_assessment']['overall_score']}")
 ```
 
 ## V1.0.0
-Static analysis pipeline
-ML powered code embeddings
-Ensemble anomaly detection
-Code quality predictions
+-Static analysis pipeline
+-ML powered code embeddings
+-Ensemble anomaly detection
+-Code quality predictions
 
 ## Future updates planned
-Extended language support (currently only supports python)
-Testing for all ml components and testing performance of models
-Web interface with result visualization
+-Extended language support (currently only supports python)
+-Testing for all ml components and testing performance of models
+-Web interface with result visualization
 
 ## Contributing
 Contributions are most welcome!
 
 ## License
 MIT License
+
